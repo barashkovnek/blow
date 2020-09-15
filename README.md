@@ -1,1 +1,1 @@
-https://github.com/barashkovnek/blow
+https://barashkovnek.github.io/blow/
